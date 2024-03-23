@@ -14,6 +14,12 @@ Education
 * M.S. in Computer Science and Technology, ShanghaiTech University, 2021-2024 (expected)
 * B.S. in Software Engineering, A Joint Program of Beihang University and Beijing University of Technology, 2017-2021
 
+Publication
+------
+* Truthful and Stable One-sided Matching on Networks.（Accepted by AAMAS2024 as Extended Abstract.)
+* Optimal One-sided Matching on Networks. (Under Review)
+* Stable Marriage on Networks. (Under Review)
+
 Projects
 ------
 * Spring 2024: Academic Pages Collaborator
@@ -30,17 +36,7 @@ Projects
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
-------
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-  
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
