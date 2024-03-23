@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* M.S. in Computer Science and Technology, ShanghaiTech University, 2024 (expected)
-* B.S. in Software Engineering, A Joint Program of Beihang University and Beijing University of Technology, 2021
+------
+* M.S. in Computer Science and Technology, ShanghaiTech University, 2021-2024 (expected)
+* B.S. in Software Engineering, A Joint Program of Beihang University and Beijing University of Technology, 2017-2021
 
 Projects
-======
+------
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
@@ -32,7 +32,7 @@ Projects
   * Supervisor: Professor Git
   
 Skills
-======
+------
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -48,7 +48,7 @@ Skills
   {% endfor %}</ul> -->
   
 Services
-======
+------
 - Teaching Assistant
 - Conference Management Group
   <!-- <ul>{% for post in site.teaching reversed %}
