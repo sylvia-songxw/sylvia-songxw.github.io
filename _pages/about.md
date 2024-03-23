@@ -20,13 +20,15 @@ xxx
 
 Publication
 ------
-xxx
+* Truthful and Stable One-sided Matching on Networks.（Accepted by AAMAS2024 as Extended Abstract.)
+* Optimal One-sided Matching on Networks. (Under Review)
+* Stable Marriage on Networks. (Under Review)
 
 Personal Interests
 ------
-- Go hiking/cycling in sunny days, and spy on cute animals :)
-- Latin Dancing!!
-- Enjoy Cantonese food, Dairy Queen, and special flavored coffee ~
+* Go hiking/cycling in sunny days, and spy on cute animals :)
+* Latin Dancing!!
+* Enjoy Cantonese food, Dairy Queen, and special flavored coffee ~
 
 
 
