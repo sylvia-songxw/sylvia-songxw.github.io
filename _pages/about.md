@@ -1,25 +1,25 @@
 ---
 permalink: /
-title: "Xinwei's Homepage"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Self introduction maybe
+About Me
+------
+xxx
 
 Research Interests
-======
-...
+------
+xxx
 
 
 Publication
 ------
 xxx
 
-Looking for Ph.D.
-------
-xxx
+**Actively Looking For Ph.D. Positions!**
 
 
