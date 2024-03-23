@@ -24,11 +24,9 @@ xxx
 
 Personal Interests
 ------
-- Go hiking/cycling in sunny days, especially with Frank:)
-- Try out new restaurants ~
+- Go hiking/cycling in sunny days, and spy on cute animals :)
 - Latin Dancing!!
-- Enjoy Dairy Queen with Frank:)
-- Watching Cute Animals!!!
+- Enjoy Cantonese food, Dairy Queen, and special flavored coffee ~
 
 
 
