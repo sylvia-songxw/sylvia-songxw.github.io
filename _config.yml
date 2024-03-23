@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xinwei Song / Sylvia"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://sylvia-songxw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Xinwei Song"
   pronouns         : # example: "she/her"  
-  bio              : "A 3rd Year Master in Computer Science and Technology"
+  bio              : "3rd Year Master in Computer Science and Technology"
   location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
   uri              : # URL
