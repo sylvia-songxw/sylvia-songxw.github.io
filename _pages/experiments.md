@@ -5,10 +5,9 @@ permalink: /experiments/
 author_profile: true
 ---
 
-Does Benevolence Affect the Sense of Fairness, Mar.2024
+Does Benevolence Affect the Sense of Fairness?
 ------
-* Background
-* Assumption
-* Methods
-* Results and Guess
-* Poster
+* Last Update: Mar.2024
+<figure>
+  <img src="..\images\Xinwei_Poster_1.png">
+</figure>
