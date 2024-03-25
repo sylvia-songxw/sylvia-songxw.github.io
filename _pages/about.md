@@ -20,14 +20,12 @@ xxx
 
 Personal Interests
 ------
-* Go hiking/cycling in sunny days, and spy on cute animals :blush:
-* Latin Dancing :dancer:
-* Enjoy Cantonese food, Dairy Queen, and special flavored coffee with Frank :yum:
+* Go hiking/cycling in sunny days, and spy on cute animals :)
+* Latin Dancing!!
+* Enjoy Cantonese food, Dairy Queen, and special flavored coffee with Frank ~
 
 <figure class="third">
-  <img src="..\images\lab_sunset.jpg" width = "300">
-  <img src="..\images\smart_sunset.jpg" width = "300"">
-  <img src="..\images\zhongke_sunset.jpg" width = "300"">
+  <img src="..\images\lab_sunset.jpg" width = "300"><img src="..\images\smart_sunset.jpg" width = "300""><img src="..\images\zhongke_sunset.jpg" width = "300"">
 </figure>
 
 
