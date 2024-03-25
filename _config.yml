@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Xinwei Song"
   pronouns         : # example: "she/her"  
-  bio              : "3rd Year Master in\n Computer Science and Technology"
+  bio              : "3rd Year Master in"\n"Computer Science and Technology"
   location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
   uri              : # URL
