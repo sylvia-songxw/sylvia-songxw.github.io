@@ -29,7 +29,7 @@ Publication
   We propose a solution for stable marriage problem on networks, where the male are incentivized to report their true preferences, and both the male and the female have incentives to invite others to enlarge the game.
 
 
-Projects in Past Three Years
+Projects
 ------
 * **Mechanism Design for Matching on Social Networks, Oct.2021-Jun.2024**
   * Project Purpose:
@@ -59,7 +59,7 @@ Projects in Past Three Years
   <!-- --- -->
 
   
-Services in Past Three Years
+Services
 ------
 - Conference on Web and InterNet Economics (WINE 2023) Conference Preparation, Sept.2023-Dec.2023
 - Python Programming Teaching Assistant, May.2023-Aug.2023
