@@ -5,13 +5,10 @@ permalink: /experiments/
 author_profile: true
 ---
 
-Talk about Motivations 
-
-Ongoing Experiments
+Does Benevolence Affect the Sense of Fairness, Mar.2024
 ------
-* 
-
-Previous Experiments
-------
-* Does Benevolence Affect the Sense of Fairness
-* 
+* Background
+* Assumption
+* Methods
+* Results and Guess
+* Poster
