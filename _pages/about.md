@@ -24,9 +24,14 @@ Personal Interests
 * Latin Dancing!!
 * Enjoy Cantonese food, Dairy Queen, and special flavored coffee with Frank ~
 
+Photos
+------
 <figure class="third">
-  <img src="..\images\lab_sunset.jpg" width = "300"><img src="..\images\smart_sunset.jpg" width = "300""><img src="..\images\zhongke_sunset.jpg" width = "300"">
+  <img src="..\images\lab_sunset.jpg" width = "300"><img src="..\images\smart_sunset.jpg" width = "300"><img src="..\images\zhongke_sunset.jpg" width = "300">
 </figure>
 
+<figure class="third">
+  <img src="..\images\omills_cake.jpg" width = "300"><img src="..\images\me&Frank.jpg" width = "300"><img src="..\images\sneaky_cat.jpg" width = "300">
+</figure>
 
 
