@@ -11,4 +11,13 @@ TaxAI
 * Challenge
 * Solution & Result
 
+Alympics
+------
+* Reproduction
+* Adding new scenarios and designing new policies for Alympics
+
+AutoGen
+------
+* Game Theory and AutoGen Agents
+
 
