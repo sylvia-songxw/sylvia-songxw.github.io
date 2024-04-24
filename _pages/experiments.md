@@ -11,3 +11,10 @@ Does Benevolence Affect the Sense of Fairness?
 <figure>
   <img src="..\images\Xinwei_Poster_1.png">
 </figure>
+
+Silent(Passive) Pro-social Behavior May Arise Anger
+------
+* Last Update: Apr.2024
+<figure>
+  <img src="..\images\Xinwei_Poster_2.png">
+</figure>
