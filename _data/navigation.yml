@@ -21,11 +21,11 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "AGT"
-    url: /algorithmic-game-theory/
+  # - title: "AGT"
+  #   url: /algorithmic-game-theory/
 
   - title: "Experiments"
     url: /experiments/
 
-  - title: "MARL"
-    url: /marl/
+  # - title: "MARL"
+  #   url: /marl/
