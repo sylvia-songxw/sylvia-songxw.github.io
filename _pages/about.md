@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ------
-I am a 3rd year Master student at [SMART Lab](https://smart.sist.shanghaitech.edu.cn) in ShanghaiTech University, fortunately supervised by Professor [Dengji Zhao](http://dengji-zhao.net). I major in Computer Science and Technology, and I have been especially focusing on Algorithmic Game Theory for the past three years.
+I am a 2nd year PhD student at [SMART Lab](https://smart.sist.shanghaitech.edu.cn) in ShanghaiTech University, fortunately supervised by Professor [Dengji Zhao](http://dengji-zhao.net). I major in Computer Science and Technology, and I have been especially focusing on Multi-agent Systems, Hybrid Human-AI Systems, and Game Theory. I am also an intern in the Multi-agent Group at [BIGAI](https://www.bigai.ai/), luckily supervised by [Xue Feng](https://scholar.google.com/citations?hl=zh-CN&user=KAQ5JlYAAAAJ).
 
 Research Interests
 ------
@@ -19,7 +19,6 @@ During my Ph.D., I will keep following my curiosity and apply CS techniques to u
 
 If given the opportunity, I would like to do behavioral experiments because most theoretical results are far from true. Different from the ideal rational theory, humans not only care about the actual outcome, properties like fairness, reputation, and intuitive prosocial behavior are also influencing their behaviors. Uncovering these human features is essential to make artificial systems become value-aligned and cooperate with humans smoothly.
 
-**Actively Looking For Ph.D. Positions!**
 
 Personal Interests
 ------
@@ -34,7 +33,7 @@ Photos
 </figure>
 
 <figure class="third">
-  <img src="..\images\omills_cake.jpg" width = "300"><img src="..\images\me&Frank.jpg" width = "300"><img src="..\images\sneaky_cat.jpg" width = "300">
+  <img src="..\images\omills_cake.jpg" width = "300"><img src="..\images\me-2024.jpg" width = "300"><img src="..\images\sneaky_cat.jpg" width = "300">
 </figure>
 
 

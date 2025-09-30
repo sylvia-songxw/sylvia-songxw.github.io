@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ------
-* M.S. in Computer Science and Technology, ShanghaiTech University, 2021-2024 (expected)
+* Ph.D. in Computer Science and Technology, A Joint Program of ShanghaiTech University and Beijing Institute for General Artificial Intelligence, 2024-2027(expected)
+* M.S. in Computer Science and Technology, ShanghaiTech University, 2021-2024
 * B.S. in Software Engineering, A Joint Program of Beihang University and Beijing University of Technology, 2017-2021
 
 Publication
@@ -20,11 +21,15 @@ Publication
 
   We design the first incentive compatible solutions for matching on networks (without restriction on the network structure). Despite theoretical analysis, we conduct simulations to compare the average agent’s satisfaction under different solutions.
 
-* **Optimal One-sided Matching on Networks** (Under Review)
+* **Housing Market on Networks** (Accepted by AAMAS 2025)
 
   This work constructs the theoretical boundaries for one-sided matching on networks and proposes a mechanism called Connected Trading Cycles to reach them. Specifically, we redefine the optimality notion and prove the implication between different versions of stability and optimality.
 
-* **Stable Marriage on Networks** (Under Review)
+* **Learning to Cooperate with Emergent Reputation via Multi-agent Reinforcement Learning** (Under Review)
+
+  We propose COOPER, a reinforcement learning algorithm that jointly learns reputation assignment modules and policies without pre-defined rules or additional reward shaping. Extensive experiments show that COOPER can adapt to existing social norms and develop emergent reputation norms to promote cooperation in decentralized multi-agent systems.
+
+* **Stable Marriage via Social Relationships** (Under Review)
 
   We propose a solution for stable marriage problem on networks, where the male are incentivized to report their true preferences, and both the male and the female have incentives to invite others to enlarge the game.
 
@@ -35,9 +40,13 @@ Projects
   * Project Purpose:
   * Main Work: We design mechanisms/algorithms for matching (including one-sided matching, e.g., Shapley Scarf housing market, and two-sided matching, e.g., stable marriage problem), with an extra focus on the social interaction of agents. In this new setting, traditional mechanisms (e.g., top trading cycles, deferred acceptance) fail to be incentive compatible, and the theoretical boundaries also change.
 
+* **Reputation Study via Multi-agent Reinforcement Learning, Sept.2024-Jun.2025**
+  * Project Purpose:
+  * Main Work: We design mechanisms/algorithms for matching (including one-sided matching, e.g., Shapley Scarf housing market, and two-sided matching, e.g., stable marriage problem), with an extra focus on the social interaction of agents. In this new setting, traditional mechanisms (e.g., top trading cycles, deferred acceptance) fail to be incentive compatible, and the theoretical boundaries also change.
+
   <!-- --- -->
 
-* **Three WeChat Mini-program Products Development, Feb.2021-Nov.2023**
+* **Three WeChat Mini-program Products Development, Feb.2021-Nov.2024**
   * Mini-program Products
      1. Second-hand Good Trading Platform 
      2. BookNet: Online Book Exchanging and Rating Community 
@@ -52,7 +61,7 @@ Projects
   
   <!-- --- -->
 
-* **Incorporating Shapley Value into MARL Predator-Prey Game, Mar.2022-Jun.2022**
+* **Incorporating Shapley Value into MARL Predator-Prey Game, Mar.2023-Jun.2023**
   * Project Purpose: design a heuristic Shapley-Q learning framework for semi-cooperative MARL games, represented by predator- prey; in predator-prey games, the predators cooperate to maximize global reward but also have extra strategies to increase / decrease their private reward / cost. 
   * Main Work: use Shapley Value to decompose the reward function and make MARL more explainable; apply DQN-based neural networks to approximate Shapley Q-value; construct heuristic functions for the semi-cooperative model.
   
@@ -61,8 +70,9 @@ Projects
   
 Services
 ------
+- Reviewer for JAAMAS & IEEE TCSS, Sept.2024-
 - Conference on Web and InterNet Economics (WINE 2023) Conference Preparation, Sept.2023-Dec.2023
 - Python Programming Teaching Assistant, May.2023-Aug.2023
-- Machine Learning Teaching Assistant, Sept.2022-Jan.2023
+- Machine Learning Teaching Assistant, Sept.2022-Jan.2023 and Sept.2025-
 - International Conference on Distributed AI (DAI 2021) Conference Preparation, Oct.2021-Jan.2022
 - Algorithmic Game Theory MOOC Teaching Assistant, Sept.2021-Jan.2022
