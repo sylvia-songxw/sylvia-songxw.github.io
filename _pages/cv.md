@@ -11,68 +11,60 @@ redirect_from:
 
 Education
 ------
-* Ph.D. in Computer Science and Technology, A Joint Program of ShanghaiTech University and Beijing Institute for General Artificial Intelligence, 2024-2027(expected)
-* M.S. in Computer Science and Technology, ShanghaiTech University, 2021-2024
-* B.S. in Software Engineering, A Joint Program of Beihang University and Beijing University of Technology, 2017-2021
+* **Ph.D. in Computer Science and Technology**, a joint program of ShanghaiTech University and the Beijing Institute for General Artificial Intelligence (BIGAI), 2024.09–2027.06 (expected). Advisor: Prof. Dengji Zhao.
+* **M.S. in Computer Science and Technology**, ShanghaiTech University, 2021.09–2024.06.
+* **B.Eng. in Software Engineering**, a joint program of Beihang University and Beijing University of Technology, 2017.09–2021.06.
 
-Publication
+Research Interests
 ------
-* **Truthful and Stable One-sided Matching on Networks**（Accepted by AAMAS2024 as Extended Abstract.)
+Autonomous decision-making and incentive design in multi-agent systems; reinforcement learning, game theory, and mechanism design; reputation, social norms, and emergent cooperation; continual learning and goal generation for LLM agents.
 
-  We design the first incentive compatible solutions for matching on networks (without restriction on the network structure). Despite theoretical analysis, we conduct simulations to compare the average agent’s satisfaction under different solutions.
-
-* **Housing Market on Networks** (Accepted by AAMAS 2025)
-
-  This work constructs the theoretical boundaries for one-sided matching on networks and proposes a mechanism called Connected Trading Cycles to reach them. Specifically, we redefine the optimality notion and prove the implication between different versions of stability and optimality.
-
-* **Learning to Cooperate with Emergent Reputation via Multi-agent Reinforcement Learning** (Under Review)
-
-  We propose COOPER, a reinforcement learning algorithm that jointly learns reputation assignment modules and policies without pre-defined rules or additional reward shaping. Extensive experiments show that COOPER can adapt to existing social norms and develop emergent reputation norms to promote cooperation in decentralized multi-agent systems.
-
-* **Stable Marriage via Social Relationships** (Under Review)
-
-  We propose a solution for stable marriage problem on networks, where the male are incentivized to report their true preferences, and both the male and the female have incentives to invite others to enlarge the game.
-
-
-Projects
+Publications
 ------
-* **Mechanism Design for Matching on Social Networks, Oct.2021-Jun.2024**
-  * Project Purpose:
-  * Main Work: We design mechanisms/algorithms for matching (including one-sided matching, e.g., Shapley Scarf housing market, and two-sided matching, e.g., stable marriage problem), with an extra focus on the social interaction of agents. In this new setting, traditional mechanisms (e.g., top trading cycles, deferred acceptance) fail to be incentive compatible, and the theoretical boundaries also change.
+* **Stable Marriage on Networks** — Miao Li, Xinwei Song, Dengji Zhao. *AAMAS 2026*. [DOI](https://doi.org/10.65109/pkvj4128)
+* **Designing Incentives for Networked Multi-agent Systems** — Xinwei Song. *AAAI 2026 Doctoral Consortium*. [DOI](https://doi.org/10.1609/aaai.v40i48.42167) · [PDF](https://ojs.aaai.org/index.php/AAAI/article/download/42167/46128)
+* **Housing Market on Networks** — Xinwei Song, Tianyi Yang, Dengji Zhao. *AAMAS 2025*. [DOI](https://doi.org/10.65109/dvvr5292) · [arXiv](https://arxiv.org/abs/2303.09759)
+* **Truthful and Stable One-sided Matching on Networks** — Tianyi Yang, Yuxiang Zhai, Dengji Zhao, Xinwei Song, Miao Li. *AAMAS 2024 (extended abstract)*. [DOI](https://doi.org/10.65109/pekx6502) · [arXiv](https://arxiv.org/abs/2201.05787)
+* **Stable Marriages via Social Relationship** — Miao Li, Xinwei Song, Dengji Zhao. *DAI 2025*. [DOI](https://doi.org/10.1145/3772429.3772443)
+* **Learning to Adapt through Reviews in Online Markets** — Xinwei Song et al. *WWW 2027, under review*.
+* **Learning to Cooperate with Emergent Reputation via Multi-agent Reinforcement Learning** — Xinwei Song, Yizhe Huang, Dengji Zhao, Xue Feng. *AAAI 2027, under review*. [arXiv](https://arxiv.org/abs/2606.04359)
+* **NormAct: Benchmarking Embodied Agents' Proactive Compliance with Unspoken Social Norms** — Shiyun Zhao, Xinwei Song, et al. *ARR October 2026, under review*. [arXiv](https://arxiv.org/abs/2606.27826)
 
-* **Reputation Study via Multi-agent Reinforcement Learning, Sept.2024-Jun.2025**
-  * Project Purpose:
-  * Main Work: We design mechanisms/algorithms for matching (including one-sided matching, e.g., Shapley Scarf housing market, and two-sided matching, e.g., stable marriage problem), with an extra focus on the social interaction of agents. In this new setting, traditional mechanisms (e.g., top trading cycles, deferred acceptance) fail to be incentive compatible, and the theoretical boundaries also change.
-
-  <!-- --- -->
-
-* **Three WeChat Mini-program Products Development, Feb.2021-Nov.2024**
-  * Mini-program Products
-     1. Second-hand Good Trading Platform 
-     2. BookNet: Online Book Exchanging and Rating Community 
-     3. Smart School-Bus Management System for Kindergarten
-  * Main Work: model the business logic and separate them into function modules; lead the team to design and develop WeChat mini-programs (WeChat JavaScript for front-end, Python Flask for back-end, SQLite for database); follow up with on-site tests and help users get familiar with the program; support required maintenance and updates.
-  
-  <!-- --- -->
-
-* **Allocation Auto-Filter for Matching, Jun.2022-Sept.2022**
-  * Project Purpose: build an auto-filter in Python to find desirable allocations for an arbitrary instance of one-sided matching or two-sided matching (especially matching over social networks); help find collar cases and provide insights for theoretical design. 
-  * Main Work: program stability, optimality, Incentive Compatibility, and other desired properties as constraints; program several commonly used network structures (for instance, small-world, ER graph, and GIRG) to run experiments and visualize the results.
-  
-  <!-- --- -->
-
-* **Incorporating Shapley Value into MARL Predator-Prey Game, Mar.2023-Jun.2023**
-  * Project Purpose: design a heuristic Shapley-Q learning framework for semi-cooperative MARL games, represented by predator- prey; in predator-prey games, the predators cooperate to maximize global reward but also have extra strategies to increase / decrease their private reward / cost. 
-  * Main Work: use Shapley Value to decompose the reward function and make MARL more explainable; apply DQN-based neural networks to approximate Shapley Q-value; construct heuristic functions for the semi-cooperative model.
-  
-  <!-- --- -->
-
-  
-Services
+Research Experience
 ------
-- Reviewer for JAAMAS & IEEE TCSS, Sept.2024-
-- Conference on Web and InterNet Economics (WINE 2023) Conference Preparation, Sept.2023-Dec.2023
-- Python Programming Teaching Assistant, May.2023-Aug.2023
-- Machine Learning Teaching Assistant, Sept.2022-Jan.2023 and Sept.2025-
-- International Conference on Distributed AI (DAI 2021) Conference Preparation, Oct.2021-Jan.2022
-- Algorithmic Game Theory MOOC Teaching Assistant, Sept.2021-Jan.2022
+### Reinforcement Learning for Multi-agent Decision Making (2024.09–present)
+I study learning, adaptation, and behavior emergence in multi-agent systems, with an emphasis on information propagation, reputation, and social norms. Current work designs decentralized MARL methods that learn reputation systems end-to-end, and models online markets in which buyers learn how to purchase and review while sellers learn how to disclose information.
+
+### Social Norm Compliance in Embodied Agents and Multimodal LLMs (2026.02–present)
+I design social-norm compliance tasks on BIGAI's TongSim and validate them with human questionnaires, implement a NormBank-based RAG baseline, and analyze why retrieving implicit social norms is hard for multimodal planners. I also contribute to the main method: a norm hinter trained with supervised learning on model-generated norm-understanding data, which raises the norm-compliant task completion rate of existing agents.
+
+### Matching Mechanism Design on Social Networks (2021.09–2025.06)
+I formulate one-sided and two-sided matching on networks and characterize the theoretical bounds; design mechanisms that are incentive compatible in both preference and social-relationship reporting, stable, and optimal; and compare average satisfaction across mechanisms by simulation.
+
+Teaching
+------
+* Teaching Assistant, Machine Learning, ShanghaiTech University (2022, 2025)
+* Teaching Assistant, Python Programming (2023)
+* Teaching Assistant, Algorithmic Game Theory MOOC (2021)
+
+Academic Service
+------
+* Reviewer: AAMAS, NeurIPS, ICML; JAAMAS and IEEE TCSS (2024–present)
+* Hotel and banquet organization: WINE 2023, DAI 2021
+* Selected participant, 2026 Reinforcement Learning Summer School with Richard S. Sutton, Shanghai Innovation Institute
+
+Skills
+------
+* **Programming & frameworks:** Python, Java, PyTorch, AI-assisted programming
+* **LLM agents:** LLM/VLM agent evaluation, supervised fine-tuning, scenario interpretation, data construction, few-shot evaluation
+
+Selected Projects
+------
+### Three WeChat Mini-programs (2021.09–2025.06, now retired)
+Designed, developed, and operated three mini-programs: a kindergarten school-bus arrival notification app (about 200 users per semester over four semesters), BookNet, an online book exchange and rating community (about 30 participants per event), and a second-hand goods trading platform (about 80 participants per event). I modeled the business logic, split it into functional modules, led a small team (WeChat JavaScript front end, Python Flask back end, SQLite database), and supported on-site testing and maintenance.
+
+### Allocation Auto-filter for Matching (2022.06–2022.09)
+Built a Python tool that searches for desirable allocations in arbitrary one-sided and two-sided matching instances, especially matching over social networks, to find corner cases and provide insights for theoretical design. Stability, optimality, and incentive compatibility are encoded as constraints, and several network structures (small-world, Erdős–Rényi, GIRG) are generated for experiments and visualization.
+
+### Shapley Value in a MARL Predator–Prey Game (2023.03–2023.06)
+Designed a heuristic Shapley-Q learning framework for semi-cooperative MARL games in which predators cooperate for a global reward but also have private incentives. Used the Shapley value to decompose the reward function, DQN-based networks to approximate Shapley Q-values, and heuristic functions for the semi-cooperative model.
