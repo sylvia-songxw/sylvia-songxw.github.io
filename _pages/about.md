@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), where I work with Prof. [Dengji Zhao](http://dengji-zhao.net) at [SMART Lab](https://smart.sist.shanghaitech.edu.cn). Since June 2024 I have also been a research intern at the [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/), advised by [Xue Feng](https://scholar.google.com/citations?hl=zh-CN&user=KAQ5JlYAAAAJ) and Zhenliang Zhang.
+I am a Ph.D. student in Computer Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), where I work with Prof. [Dengji Zhao](http://dengji-zhao.net) at [SMART Lab](https://smart.sist.shanghaitech.edu.cn). Since June 2024 I have also been a research intern at the [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/), advised by [Xue Feng](https://scholar.google.com/citations?hl=zh-CN&user=KAQ5JlYAAAAJ) and [Zhenliang Zhang](https://www.zlz.link/).
 
 My research sits where reinforcement learning, game theory, and mechanism design meet. I am drawn to autonomous decision-making and incentive design in multi-agent systems: how agents learn, adapt, and coordinate in partially observable, mixed-motive environments, and how well-designed rules can make cooperation, stable matching, and other desirable outcomes emerge rather than collapse. Lately I have been working on reputation and social norms in multi-agent learning, and on whether embodied agents built on multimodal LLMs proactively respect unspoken social norms. I am also curious about continual learning and goal generation, and about how they can make LLM agents more capable over time.
 
@@ -35,7 +35,7 @@ Education
 - **M.S. in Computer Science and Technology**, ShanghaiTech University, 2021.09–2024.06
 - **B.Eng. in Software Engineering**, Beihang University & Beijing University of Technology Joint Program, 2017.09–2021.06
 
-Teaching & Service
+Other Activities
 ------
 - Teaching assistant: Machine Learning (2022, 2025), Python Programming (2023), Algorithmic Game Theory (2021).
 - Reviewer for AAMAS, NeurIPS, ICML, and for journals including JAAMAS and IEEE TCSS (2024–present).
@@ -51,9 +51,9 @@ Personal Interests
 Photos
 ------
 <figure class="third">
-  <img src="/images/lab_sunset.jpg" width = "300" alt="Sunset from the lab"><img src="/images/smart_sunset.jpg" width = "300" alt="Sunset over the SMART Lab"><img src="/images/zhongke_sunset.jpg" width = "300" alt="Sunset at Zhongke Road">
+  <img src="/images/lab_sunset.jpg" width = "300" alt="Sunset from the lab"><img src="/images/me-2024.jpg" width = "300" alt="Portrait, 2024"><img src="/images/zhongke_sunset.jpg" width = "300" alt="Sunset at Zhongke Road">
 </figure>
 
 <figure class="third">
-  <img src="/images/omills_cake.jpg" width = "300" alt="Cake at O'MILLS"><img src="/images/me-2024.jpg" width = "300" alt="Portrait, 2024"><img src="/images/sneaky_cat.jpg" width = "300" alt="A sneaky cat">
+  <img src="/images/omills_cake.jpg" width = "300" alt="Cake at O'MILLS"><img src="/images/smart_sunset.jpg" width = "300" alt="Sunset over the SMART Lab"><img src="/images/sneaky_cat.jpg" width = "300" alt="A sneaky cat">
 </figure>

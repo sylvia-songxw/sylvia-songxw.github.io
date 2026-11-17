@@ -56,15 +56,15 @@ Academic Service
 Skills
 ------
 * **Programming & frameworks:** Python, Java, PyTorch, AI-assisted programming
-* **LLM agents:** LLM/VLM agent evaluation, supervised fine-tuning, scenario interpretation, data construction, few-shot evaluation
+* **LLM agents:** LLM/VLM agent evaluation, supervised fine-tuning, data construction, few-shot evaluation
 
 Selected Projects
 ------
-### Three WeChat Mini-programs (2021.09–2025.06, now retired)
+### Three WeChat Mini-programs (2021.09–2025.06, no longer being maintained)
 Designed, developed, and operated three mini-programs: a kindergarten school-bus arrival notification app (about 200 users per semester over four semesters), BookNet, an online book exchange and rating community (about 30 participants per event), and a second-hand goods trading platform (about 80 participants per event). I modeled the business logic, split it into functional modules, led a small team (WeChat JavaScript front end, Python Flask back end, SQLite database), and supported on-site testing and maintenance.
-
-### Allocation Auto-filter for Matching (2022.06–2022.09)
-Built a Python tool that searches for desirable allocations in arbitrary one-sided and two-sided matching instances, especially matching over social networks, to find corner cases and provide insights for theoretical design. Stability, optimality, and incentive compatibility are encoded as constraints, and several network structures (small-world, Erdős–Rényi, GIRG) are generated for experiments and visualization.
 
 ### Shapley Value in a MARL Predator–Prey Game (2023.03–2023.06)
 Designed a heuristic Shapley-Q learning framework for semi-cooperative MARL games in which predators cooperate for a global reward but also have private incentives. Used the Shapley value to decompose the reward function, DQN-based networks to approximate Shapley Q-values, and heuristic functions for the semi-cooperative model.
+
+### Allocation Auto-filter for Matching (2022.06–2022.09)
+Built a Python tool that searches for desirable allocations in arbitrary one-sided and two-sided matching instances, especially matching over social networks, to find corner cases and provide insights for theoretical design. Stability, optimality, and incentive compatibility are encoded as constraints, and several network structures (small-world, Erdős–Rényi, GIRG) are generated for experiments and visualization.
