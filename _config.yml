@@ -25,7 +25,7 @@ author:
   name             : "Xinwei Song"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student in Computer Science and Technology"
-  location         : "Shanghai, China"
+  # location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
   uri              : # URL
   email            : "songxw2024@shanghaitech.edu.cn" 
